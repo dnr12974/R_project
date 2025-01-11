@@ -49,3 +49,7 @@ Follow the menu prompts to:
 ---
 ## Developed by- 
 Dheer N Raijada
+
+---
+
+Star the repo if you liked the project
